@@ -19,3 +19,15 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivammm-cell&show_icons=true&theme=radical)
+
+ 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivammm-cell&theme=radical)
+
+ 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammm-cell&layout=compact&theme=radical)
