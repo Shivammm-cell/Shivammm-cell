@@ -24,3 +24,14 @@
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+## 📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivammm-cell&show_icons=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivammm-cell&theme=tokyonight)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivammm-cell&theme=tokyo-night)
